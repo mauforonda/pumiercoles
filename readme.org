@@ -1,6 +1,8 @@
 
 Datos de monitoreo de todos los pumakataris por minuto durante un miércoles
 
+[[./puma.png]]
+
 El 18 de Febrero de 2020 La Paz Bus publicó una aplicación para Android que reportaba la posición geográfica de cada bus en la ciudad. Como la persona curiosa que soy, decompilé la aplicación y registré todas las conexiones que realizaba. Actualmente [20 de Febrero de 2020], es posible descargar datos de estas coordenadas (junto a otros datos de monitoreo de cada bus) sin ninguna autenticación. Acá publico los datos para todos los buses en cada minuto del día miércoles 19 de Febrero de 2020 con el propósito de evitar que otros hagan algo parecido y afecten la calidad del servicio de la aplicación u otros clientes que usan estos datos. 
 
 Una muestra de cómo se ven los datos en cada columna:
